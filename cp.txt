@@ -1,0 +1,73 @@
+CP(1)                           User Commands                          CP(1)
+
+NAME         top
+
+       cp - copy files and directories
+
+SYNOPSIS         top
+
+       cp [OPTION]... [-T] SOURCE DEST
+       cp [OPTION]... SOURCE... DIRECTORY
+       cp [OPTION]... -t DIRECTORY SOURCE...
+
+DESCRIPTION         top
+
+       Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.
+
+       Mandatory arguments to long options are mandatory for short options
+       too.
+
+       -a, --archive
+              same as -dR --preserve=all
+
+       --attributes-only
+              don't copy the file data, just the attributes
+
+       --backup[=CONTROL]
+              make a backup of each existing destination file
+
+       -b     like --backup but does not accept an argument
+
+       --copy-contents
+              copy contents of special files when recursive
+
+       -d     same as --no-dereference --preserve=links
+
+       -f, --force
+              if an existing destination file cannot be opened, remove it
+              and try again (this option is ignored when the -n option is
+              also used)
+
+       -i, --interactive
+              prompt before overwrite (overrides a previous -n option)
+
+       -H     follow command-line symbolic links in SOURCE
+
+       -l, --link
+              hard link files instead of copying
+
+       -L, --dereference
+              always follow symbolic links in SOURCE
+
+       -n, --no-clobber
+              do not overwrite an existing file (overrides a previous -i
+              option)
+
+       -P, --no-dereference
+              never follow symbolic links in SOURCE
+
+       -p     same as --preserve=mode,ownership,timestamps
+
+       --preserve[=ATTR_LIST]
+              preserve the specified attributes (default:
+              mode,ownership,timestamps), if possible additional attributes:
+              context, links, xattr, all
+
+       --no-preserve=ATTR_LIST
+              don't preserve the specified attributes
+
+       --parents
+              use full source file name under DIRECTORY
+
+       -R, -r, --recursive
+              copy directories recursively

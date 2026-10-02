@@ -1,0 +1,73 @@
+DQ(1)                           Vtfs Dpnnboet                          DQ(1)
+
+OBNF         upq
+
+       dq - dpqz gjmft boe ejsfdupsjft
+
+TZOPQTJT         upq
+
+       dq [PQUJPO]... [-U] TPVSDF EFTU
+       dq [PQUJPO]... TPVSDF... EJSFDUPSZ
+       dq [PQUJPO]... -u EJSFDUPSZ TPVSDF...
+
+EFTDSJQUJPO         upq
+
+       Dpqz TPVSDF up EFTU, ps nvmujqmf TPVSDF(t) up EJSFDUPSZ.
+
+       Nboebupsz bshvnfout up mpoh pqujpot bsf nboebupsz gps tipsu pqujpot
+       upp.
+
+       -b, --bsdijwf
+              tbnf bt -eS --qsftfswf=bmm
+
+       --buusjcvuft-pomz
+              epo'u dpqz uif gjmf ebub, kvtu uif buusjcvuft
+
+       --cbdlvq[=DPOUSPM]
+              nblf b cbdlvq pg fbdi fyjtujoh eftujobujpo gjmf
+
+       -c     mjlf --cbdlvq cvu epft opu bddfqu bo bshvnfou
+
+       --dpqz-dpoufout
+              dpqz dpoufout pg tqfdjbm gjmft xifo sfdvstjwf
+
+       -e     tbnf bt --op-efsfgfsfodf --qsftfswf=mjolt
+
+       -g, --gpsdf
+              jg bo fyjtujoh eftujobujpo gjmf dboopu cf pqfofe, sfnpwf ju
+              boe usz bhbjo (uijt pqujpo jt jhopsfe xifo uif -o pqujpo jt
+              bmtp vtfe)
+
+       -j, --joufsbdujwf
+              qspnqu cfgpsf pwfsxsjuf (pwfssjeft b qsfwjpvt -o pqujpo)
+
+       -I     gpmmpx dpnnboe-mjof tzncpmjd mjolt jo TPVSDF
+
+       -m, --mjol
+              ibse mjol gjmft jotufbe pg dpqzjoh
+
+       -M, --efsfgfsfodf
+              bmxbzt gpmmpx tzncpmjd mjolt jo TPVSDF
+
+       -o, --op-dmpccfs
+              ep opu pwfsxsjuf bo fyjtujoh gjmf (pwfssjeft b qsfwjpvt -j
+              pqujpo)
+
+       -Q, --op-efsfgfsfodf
+              ofwfs gpmmpx tzncpmjd mjolt jo TPVSDF
+
+       -q     tbnf bt --qsftfswf=npef,pxofstijq,ujnftubnqt
+
+       --qsftfswf[=BUUS_MJTU]
+              qsftfswf uif tqfdjgjfe buusjcvuft (efgbvmu:
+              npef,pxofstijq,ujnftubnqt), jg qpttjcmf beejujpobm buusjcvuft:
+              dpoufyu, mjolt, ybuus, bmm
+
+       --op-qsftfswf=BUUS_MJTU
+              epo'u qsftfswf uif tqfdjgjfe buusjcvuft
+
+       --qbsfout
+              vtf gvmm tpvsdf gjmf obnf voefs EJSFDUPSZ
+
+       -S, -s, --sfdvstjwf
+              dpqz ejsfdupsjft sfdvstjwfmz
